@@ -1,0 +1,20 @@
+[
+	{
+		"ip": "191.96.92.97",
+		"port": 7777,
+		"id": 1,
+		"color":"ff2624",
+		"action": 1,
+		"key":"",
+		"name":"NEWTHINGS CITY"
+	},
+  {
+		"ip": "185.169.134.163",
+		"port": 7777,
+		"id": 1,
+		"color":"ff2624",
+		"action": 1,
+		"key":"",
+		"name":"NEWTHINGS 4KING"
+	}
+]
